@@ -1,6 +1,6 @@
 # Form website test
 
-Hey im Void, this is my first public mini site test of a Log-in Form that i createt.
+Hey, I'm Void. This is my first public test of a small form website.
 
 you can go to the Website with this Link:
 https://itsvoid00.github.io/Form-Test/
